@@ -1,0 +1,10 @@
+.thebanner{
+    padding: 10px;
+}
+.thebanner{
+    display: flex;
+    justify-content: space-around;
+}
+.contactUs{
+    margin-top: 90px;
+}

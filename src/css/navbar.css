@@ -1,0 +1,13 @@
+.navbar-background{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    background-color: lightgoldenrodyellow;
+    height: 22px;
+    padding: 52px;
+    font-weight: bold;
+}
+.dropdowncolor{
+    background-color: #fafad2;
+    color: black;
+}
